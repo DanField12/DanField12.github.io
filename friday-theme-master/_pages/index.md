@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Dan's blog
+title: Welcome to Dan's Blog
 ---
 
 ## What is it?

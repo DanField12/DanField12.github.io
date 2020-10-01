@@ -126,4 +126,6 @@ There's a suite of hundreds of Entypo icons included, here's just a few.
     </span>
 </div>
 
+This website was made possible with [jekyll](https://jekyllrb.com/) and the [friday-theme](https://github.com/sfreytag/friday-theme) made by Simon Freytag.
+
 
