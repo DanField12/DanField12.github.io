@@ -5,6 +5,7 @@ tags:
   - HTML
   - images
   - Markdown
+thumbnail: 2017-10-13-friday-theme-single-image-thumbnail.jpg
 ---
 
 Here's how to put a single image into a post, using a Bootstrap 4 card. This shows how to mingle Markdown with HTML, too.
