@@ -50,7 +50,7 @@ defaults:
       path: "_posts"
     values:
       show_profile: false
-      layout: defaults/post
+      layout: defaults/page
   -
     scope:
       path: "_portfolio"
@@ -62,7 +62,7 @@ defaults:
       path: "_projects"
     values:
       show_profile: false
-      layout: defaults/project
+      layout: defaults/page
   -
     scope:
       path: "list"
