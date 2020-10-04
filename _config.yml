@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 # Config for your profile.
 title:            Dan's Blog            # Site title
-name:             Daniel Boy            # Your name
+name:             Dan Field           # Your name
 avatar:           /theme/img/avatar.png   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
