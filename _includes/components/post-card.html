@@ -1,13 +1,13 @@
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
-    {% if post.thumbnail != null %}
-    <div class="row">
+        {% if post.thumbnail != null %}
+        <div class="row">
         <div class="col-sm-4">
             <div class="card mb-3">
                 <img class="card-img-top" src="/theme/img/thumbnails/{{ post.thumbnail }}" />
             </div>
         </div>
         <div class="col-sm-6">
-            {% endif %}
+        {% endif %}
             <div class="card-body px-0 pt-0">
                 <h4 class="card-title mb-4">
                     <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
@@ -34,8 +34,8 @@
                 </div>
                 <a href="{{ post.url | absolute_url }}">More...</a>
             </div>
-            {% if post.thumbnail != null %}
+        {% if post.thumbnail != null %}
         </div>
     </div>
-    {% endif %}
+        {% endif %}
 </div>
