@@ -22,7 +22,9 @@
                     <div>
                         {% for tag in post.tags %}
                         <span class="d-inline-block border rounded p-1 mr-1 mb-1 tag tag-{{ tag | slugify}}">
+                            <a href="/list/posts.html#{{tag |downcase}}">
                             {{ tag }}
+                                </a>
                         </span>
                         {% endfor %}
                     </div>
