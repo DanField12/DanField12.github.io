@@ -32,5 +32,3 @@ All the best
  \- Dan
 
 If you reader have any feedback on my first proper blog post. Feel free to email me as soon as I add my email to the sidebar.
-
-<iframe src="https://open.spotify.com/embed/album/0YOTy70NrfSFvKAbzLY9GF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
