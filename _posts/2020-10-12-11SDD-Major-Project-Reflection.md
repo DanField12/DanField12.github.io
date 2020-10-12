@@ -3,8 +3,9 @@ title:  11SDD Major Project Reflection
 narrow: true
 tags:
   - Projects
-  - Flutter
-  - 
+  - Web
+  - Mobile
+  - School
 ---
 
 As I am about to start my final year of high school, I feel it may be a good idea to reflect on some of the projects that I have enjoyed and that have taught me certain lessons so that I can get the most out of this forthcoming year.
