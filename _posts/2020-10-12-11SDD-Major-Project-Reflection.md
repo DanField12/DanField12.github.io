@@ -1,20 +1,29 @@
 ---
-title:  Welcome to my first post!
+title:  11SDD Major Project Reflection
 narrow: true
 tags:
   - Projects
-  - Misc
+  - Flutter
+  - 
 ---
 
-Hello reader! Welcome to my very first post...
+As I am about to start my final year of high school, I feel it may be a good idea to reflect on some of the projects that I have enjoyed and that have taught me certain lessons so that I can get the most out of this forthcoming year.
 
 <!--more-->
 
-On this blog, I inteed to write about projects I have worked on, projects I am working on and maybe some of my interests outside of software. So go grab your snacks and stay tuned for everything thats coming on this page.
+Earlier this year I was tasked with creating a piece of software to solve any hypothetical problem as part of my year 11 Software course \- A task that didn't sound terribly daunting apart from the 5000 word report to go alongside it. I will skip over the report in this post because I think that isn't neccessarily the most important part of software development. I mean ideally, good code should document itself right.
 
-I need to give a big thanks to Simon Freytag and his friday theme that saved me a lot of time and painful CSS. I made the small addition of optional thumbnails for each blog post with a little bit of bootstrap. If you couldnt tell by the domain, The project is being hosted on Github Pages and uses Jekyll because that was the easiest thing for me to do.
+I attempted to solve the increadibly closed off and narrow issue of global water shortages with my app that allows someone to monitor their water usages. It did this with a dummy dataset that I hade made up, loosely based on some data from the BOM. I parsed this data into a library I found called BezierChart that displays scatterplots. The app was written using google's new app framework Flutter.
 
-Anyway, at the time of writing this most of the site is missing content (I haven't even done a readme yet!) so expect that to be complete soon or for me to continue procrastinating that. Theres not much else for me to say now... 
+This project was not neccessarily a project that I enjoyed due in part to the lackluster final product. The end result was essentially a static page with a graph on it that was supposed to be a placeholder. In spite of the mark I received for the assignment, I did not feel proud of my software because it felt lazy, a project made just to get the marks \- which is pretty much exactly what it was.
+
+I will be tasked with a similar product in Year 12 but I think for this one, I will try to put effort, not only into my report writing, but also my software. It will probably help if the software is something I will be likely to use personally. And that I can come out of this with a gratifying project.
+
+I think that restraint has been a common theme throughout high school. I can think of numerous occasions where I have asked my teacher if I'm allowed to do ... with the response always being: 'you don't need to, you've already got the marks' or 'that's not part of the syllabus'. These responses discorouge risk-taking but it is easy to see why a teacher would respond with these remarks, because they don't need any extra work marking.
+
+Due to some poor organisation there is no github repo with my code in it and im not sure if I will be willing to create one and upload the projects code but I know this is something that will be very neccessary for all my future projects.
 
 All the best
  \- Dan
+
+If you reader have any feedback on my first proper blog post. Feel free to email me as soon as I add my email to the sidebar.
