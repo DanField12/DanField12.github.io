@@ -18,6 +18,6 @@ The first code I worte was to encrypt, save and decrypt a message. This is the m
 
 So far, I have written a login page where the user has to enter my dummy password. The password then unencrypts the other data on their passwords for a set of websites. These websites are then displayed to them in a list. Each list element is clickable and will open a new screen with some more detail on it.
 
-![a picture](/theme/img/12SDD_v1_1.jpg)![a picture](/theme/img/12SDD_v1_2.jpg)![a picture](/theme/img/12SDD_v1_3.jpg)![a picture](/theme/img/12SDD_v1_4.jpg)![a picture](/theme/img/12SDD_v1_5.jpg)
-
 The codebase can be found [here.](https://github.com/DanField12/dans_password_vault) 
+
+![a picture](/theme/img/12SDD_v1_1.jpg)![a picture](/theme/img/12SDD_v1_2.jpg)![a picture](/theme/img/12SDD_v1_3.jpg)![a picture](/theme/img/12SDD_v1_4.jpg)![a picture](/theme/img/12SDD_v1_5.jpg)
